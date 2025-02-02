@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @halwar236
-- 👀 I’m interested in learning stuff
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me ...
-- 😄 Pronouns: yes
-- ⚡ Fun fact: I like cats.
+This is my private learning prosjects repository. 
 
 <!---
 halwar236/halwar236 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
